@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+  "rusty-gun-core",
+  "rusty-gun-server",
+]
